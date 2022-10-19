@@ -39,7 +39,8 @@
 <br>
 
 ## 📫 How to reach me
-### Email: cryptolegend0619@gmail.com
+### Email: cryptolegend0619@gmail.com, greenrose9251@gmail.com
+### Phone: +1 (315) 930-1175
 ### LinkedIn: [Kenneth Francis](https://www.linkedin.com/in/kenneth-francis92/)
 ### Telegram: [CryptoLegend](https://t.me/crypto_legend_92)
 ### Skype: [Crypto Legend](https://join.skype.com/invite/liZU3e6BPBlM)
