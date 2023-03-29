@@ -1,5 +1,5 @@
 # Welcome to my github, lovelyrrg51!
-## 🔭 This is my github owned by Kenneth, 8+ years experience in specialist and a huge enthusiast of the blockchain&back-end sector, especially CeFi&DeFi and Core of Blockchain(L0, L1, L2) Fields.
+## 🔭 This is the github account owned by Kenneth, 8+ years experience in specialist and a huge enthusiast of the blockchain&back-end sector, especially CeFi&DeFi and Core of Blockchain(L0, L1, L2) Fields.
 
 ## 🌱 Currently, I'm working on
 ## - **Front-End:**
