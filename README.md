@@ -73,7 +73,7 @@
   <a>
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyrrg51&langs_count=8&hide=css,html,vue,scss,ruby,makefile,shell&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyrrg51&langs_count=8&hide=css,html,vue,scss,ruby,makefile,slim&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 
