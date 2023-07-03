@@ -64,13 +64,13 @@
 </p>
 
 <p align="center">
-  <a>
+<!--   <a>
     <img
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=lovelyrrg51&count_private=true&show_icons=true&custom_title=Lovelyrrg51's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
-  <a>
+  <a> -->
     <img
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyrrg51&langs_count=8&hide=css,html,vue,scss,ruby,makefile,slim&layout=compact&theme=vision-friendly-dark" />
