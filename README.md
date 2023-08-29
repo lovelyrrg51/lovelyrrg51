@@ -1,5 +1,5 @@
 # Welcome to my github, lovelyrrg51!
-## 🔭 8+ years experience in specialist and a huge enthusiast of the Blockchain & Back-End & DevOps sector, especially CeFi&DeFi and Core of Blockchain(L0, L1, L2) Fields, focusing Blockchain & AI.
+## 🔭 10+ years experience in specialist and a huge enthusiast of the Blockchain & Web Development & AI sector, especially CeFi&DeFi and Core of Blockchain(L0, L1, L2) Fields.
 
 ## 🌱 Currently, I'm working on
 ## - **Front-End:**
@@ -39,7 +39,7 @@
 <br>
 
 <!-- ## 📫 How to reach me
-### Email: cryptolegend0619@gmail.com, greenrose9251@gmail.com
+### Email: cto@soundproofip.io, cryptolegend0619@gmail.com, greenrose9251@gmail.com
 ### Phone: +1 (315) 930-1175
 ### LinkedIn: [Kenneth Francis](https://www.linkedin.com/in/kenneth-francis92/)
 ### Telegram: [CryptoLegend](https://t.me/crypto_legend_92)
